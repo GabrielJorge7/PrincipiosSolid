@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\taskfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\taskfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\itaskfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\itaskfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\itaskprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\itaskprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\consoletaskprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\consoletaskprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|c:\\users\\alunos\\downloads\\principiosolid\\principiosolid\\icompletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18256E80-8AA5-46EA-AA8D-3A5D571D6D2D}|PrincipioSolid\\PrincipioSolid.csproj|solutionrelative:principiosolid\\icompletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\Task.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\Task.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\Task.cs",
+              "RelativeToolTip": "PrincipioSolid\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:31:24.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ITaskFilter.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\ITaskFilter.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ITaskFilter.cs",
+              "RelativeToolTip": "PrincipioSolid\\ITaskFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:28:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ITaskManager.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\ITaskManager.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ITaskManager.cs",
+              "RelativeToolTip": "PrincipioSolid\\ITaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:28:02.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\TaskFilter.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\TaskFilter.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\TaskFilter.cs",
+              "RelativeToolTip": "PrincipioSolid\\TaskFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:26:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\TaskManager.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\TaskManager.cs",
+              "RelativeToolTip": "PrincipioSolid\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:39:51.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICompletable.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ICompletable.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\ICompletable.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ICompletable.cs",
+              "RelativeToolTip": "PrincipioSolid\\ICompletable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:39:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleTaskPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ConsoleTaskPrinter.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\ConsoleTaskPrinter.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ConsoleTaskPrinter.cs",
+              "RelativeToolTip": "PrincipioSolid\\ConsoleTaskPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:39:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ITaskPrinter.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\ITaskPrinter.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\ITaskPrinter.cs",
+              "RelativeToolTip": "PrincipioSolid\\ITaskPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:39:46.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioSolid\\Program.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\PrincipioSolid\\PrincipioSolid\\Program.cs",
+              "RelativeToolTip": "PrincipioSolid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:02:43.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
